@@ -79,7 +79,7 @@ Enhance equity-based repayment policies, such as automatic enrollment in income-
 
 Clone this repo:
 
-git clone https://github.com/yourusername/student-loan-delinquency-prediction.git
+git clone https://github.com/HeweDA/Predicting-Student-Loan-Delinquency-Post-CARES-Act.git
 
 
 Install dependencies:
